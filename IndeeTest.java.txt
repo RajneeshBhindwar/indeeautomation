@@ -2,6 +2,6 @@ public class IndeeTest
 {
     public static void main( String[] args )
     {
-        System.out.println( "indee automation" );
+        System.out.println( "indee automation new" );
     }
 }
